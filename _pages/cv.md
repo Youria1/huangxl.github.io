@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electronic Information, Fudan University, 2025 (expected)
+* M.S. in Radio Physics, Xiamen University, 2021
+* B.S. in Mathematics and Applied Mathematics, Nanchang University, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
+* Spring 2024: Hikvision
+  * algorithm engineer
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
