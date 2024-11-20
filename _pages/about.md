@@ -23,15 +23,15 @@ Research interests
 
 Selected Publications
 ------
-1.Xianliang Huang, Jiawen Li, Yanjin Chen, Feng Han, Qinghuo Liu. Hybrid Electromagnetic Inversion of Irregular Scatterers Embedded in layered Media by VBIM and MET. in IEEE Transactions on Antennas and Propagation, vol. 68, no. 12, pp. 8238-8243, Dec. 2020.doi: 10.1109/TAP.2020.2985156.（JCR，一区）
+1.Xianliang Huang, Jiajie Gou, Shuhang Chen, Zhizhou Zhong, Jihong Guan, Shuigeng Zhou. IDDR-NGP: Incorporating Detectors for Distractor Removal with Instant Neural Radiance Field. ACM Multimedia.(CCF-A, Oral)
 
-2.Xianliang Huang, Jiawen Li, Jianliang Zhuo, Feng Han, Qinghuo Liu. Fast and Reliable Reconstruction of 3-D Anisotropic Objects Buried in Layered Media by Cascaded Inverse Solvers. in IEEE Geoscience and Remote Sensing Letters, doi: 10.1109/LGRS.2021.3076433.（JCR，二区）
+2.Xianliang Huang, Jiawen Li, Yanjin Chen, Feng Han, Qinghuo Liu. Hybrid Electromagnetic Inversion of Irregular Scatterers Embedded in layered Media by VBIM and MET. in IEEE Transactions on Antennas and Propagation, vol. 68, no. 12, pp. 8238-8243, Dec. 2020.doi: 10.1109/TAP.2020.2985156.(JCR-Q1)
 
-3.Xianliang Huang, Jiajie Gou, Shuhang Chen, Zhizhou Zhong, Jihong Guan, Shuigeng Zhou. IDDR-NGP: Incorporating Detectors for Distractor Removal with Instant Neural Radiance Field. ACM Multimedia.(CCF-A类会议, Oral)
+3.Xianliang Huang, Yining Lang, Ying Guo, Yuan He, Hui Xue, Li Zhao, Shuigeng Zhou. DR-Net: A Multi-View Face Synthesis Network Driven by Dual Representation.IEEE International Conference on Multimedia and Expo.(CCF-B，Oral)
 
-4.Xianliang Huang, Yining Lang, Ying Guo, Yuan He, Hui Xue, Li Zhao, Shuigeng Zhou. DR-Net: A Multi-View Face Synthesis Network Driven by Dual Representation.IEEE International Conference on Multimedia and Expo.(CCF-B类会议，Oral)
+4.Xianliang Huang, Jiawen Li, Jianliang Zhuo, Feng Han, Qinghuo Liu. Fast and Reliable Reconstruction of 3-D Anisotropic Objects Buried in Layered Media by Cascaded Inverse Solvers. in IEEE Geoscience and Remote Sensing Letters, doi: 10.1109/LGRS.2021.3076433.(JCR-Q2)
 
-5.Xianliang Huang, Shuhang Chen, Zhizhou Zhong, Jiajie Gou, Jihong Guan, Shuigeng Zhou. Hi-NeRF: Hybridizing 2D Inpainting with Neural Radiance Fields for 3D Object Removal. ACCV 2024.（CCF-C类会议）
+5.Xianliang Huang, Shuhang Chen, Zhizhou Zhong, Jiajie Gou, Jihong Guan, Shuigeng Zhou. Hi-NeRF: Hybridizing 2D Inpainting with Neural Radiance Fields for 3D Object Removal. ACCV 2024.(CCF-C)
 
 6.Xianliang Huang, Zhizhou Zhong, Shuhang Chen, Yi Xu, Jihong Guan, Shuigeng Zhou. NeRF-MIR: Neural Radiance Fields for Masked Image Restoration. Submit to IEEE Transactions on Neural Networks and Learning Systems (TNNLS) under review.
 
