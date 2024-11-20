@@ -21,7 +21,7 @@ Research interests
 *The application of diffusion model and Gaussian splatting on image inpainting, object removal, and interference scene recovery.
 
 
-Selected Publications
+#Selected Publications
 ------( * denotes equal contribution, see full publications in my [Google Scholar](https://scholar.google.com/citations?user=o39MFWsAAAAJ&hl=zh-CN) or [Publications](https://youria1.github.io/huangxl.github.io//publications/))
 
 1.Xianliang Huang, Jiajie Gou, Shuhang Chen, Zhizhou Zhong, Jihong Guan, Shuigeng Zhou. IDDR-NGP: Incorporating Detectors for Distractor Removal with Instant Neural Radiance Field. ACM Multimedia.(CCF-A, Oral)
