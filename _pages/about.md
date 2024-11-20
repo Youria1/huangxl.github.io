@@ -70,5 +70,6 @@ Misc
 
 For more info
 ------
-You can find my CV here:[hxl_cv](../assets/hxl_cv)
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+You can find my CV here:[hxl_cv](../assets/cv_hxl)
+
+More info about Google Scholar research can be found on [the page](https://scholar.google.com/citations?user=o39MFWsAAAAJ&hl=zh-CN). If you are interested about my research, please feel free to contact me via [email](huangxl21@m.fudan.edu.cn).
