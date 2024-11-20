@@ -64,11 +64,13 @@ Selected Awards
 Activities
 ------
 Oral Presentation at IEEE International Conference on Multimedia and Expo (ICME) 2023
+
 Oral Presentation at Proceedings of the 31st ACM International Conference on Multimedia
 
 Internships and work experience
 ------
 Algorithm Researcher, Beijing DeepSun Technology Co, in Beijing, China
+
 Algorithm Internship, Hikvision Company, in Hangzhou, China
 
 
