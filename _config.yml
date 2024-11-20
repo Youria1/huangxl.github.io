@@ -12,7 +12,7 @@ title                    : "Xianliang Huang / CV"
 title_separator          : "-"
 name                     : &name "Xianliang Huang"
 description              : &description "personal description"
-URL                      : "https://youria1.github.io"
+URL                      : "https://huangxl.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://youria1.github.io"
 
