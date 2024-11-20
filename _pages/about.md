@@ -8,7 +8,7 @@ redirect_from:
 ---
 I'm a four-year Ph.D candidate at [School of CS](https://cs.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/main.htm). I am very fortunate to be advised by [Prof. Zhou](https://admis.fudan.edu.cn/sgzhou/main.htm) of ADMIS Lab from [School of Computer Science](https://cs.fudan.edu.cn/), Fudan University. Before that, I received my M.S. degree in Radio Physics at Xiamen University and my B.S. degree in Mathematics and Applied Mathematics at Nanchang University.
 
-My research interests include computer vision, computer graphics, neural rendering, and image inpainting. Especially in the reconstruction of 3D faces and scenes using neural radiation fields and differentiable rendering methods based on physical information and graphical methods fused with artificial intelligence techniques.
+My research interests include computer vision, computer graphics, neural rendering, and image inpainting. Especially in the reconstruction of 3D faces and scenes using neural radiation fields and differentiable rendering methods based on physical information and graphical methods fused with artificial intelligence techniques. The other research is based on neural rendering techniques (NeRF, Instant-NGP, 3DGS) to restore 3D scenes from contaminated images.
 I am open to possible collaboration or discussion opportunities. If you are interested in my research, please contact me via [Email](mailto:huangxl21@m.fudan.edu.cn)/ [Github](https://github.com/Youria1) /. You can find my CV here: [Huangxl's Curriculum Vitae](../assets/cv_hxl.pdf).
 
 
@@ -49,21 +49,30 @@ Selected Awards
 
 *First Class Scholarship for Doctoral Students of Fudan University
 
-*Three Good Students of Xiamen University, Xiamen University
+*Three-A Students of Xiamen University
 
-*Outstanding Student Leader, School of Electronics, Xiamen University
+*Outstanding Student Leader at the School of Electronics at Xiamen University
 
-*Second Prize of the Eighth National Math Contest for College Students
+*Second Prize of the Eighth National Chinese University Student Mathematics Competitions(CMC) 
 
-*First Prize of the Ninth National University Student Mathematics Competition
+*First Prize of the Ninth National Chinese University Student Mathematics Competition(CMC) 
 
-*Provincial First Prize in the Ninth National Mathematics Competition for University Students
+*Second Prize in Two Tracks of Fujian Province Graduate Student Artificial Intelligence Competition
 
 *Second Prize in APMCM Asia-Pacific Regional Mathematical Modeling Contest
 
-*Second Prize in APMCM Asia-Pacific Regional Mathematical Modeling Competition.
+Activities
+------
+Oral Presentation at IEEE International Conference on Multimedia and Expo (ICME) 2023
+Oral Presentation at Proceedings of the 31st ACM International Conference on Multimedia
 
-Misc
+Internships and work experience
+------
+Algorithm Researcher, Beijing DeepSun Technology Co, in Beijing, China
+Algorithm Internship, Hikvision Company, in Hangzhou, China
+
+
+Miscellaneous
 ------
 *Positive and optimistic, love sports, good foundation in mathematics and science, hard-working, passionate about technology, able to proactively learn new things
 
