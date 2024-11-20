@@ -13,7 +13,7 @@ I am open to possible collaboration or discussion opportunities. If you are inte
 
 
 Research interests
-======
+------
 *Multi-view face generation and self-attention mechanism;
 
 *Physical-guide 3D faces and scenes Reconstruction; Neural radiance fields and differentiable rendering methods;
