@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a third-year Ph.D candidate from [School of CS](https://cs.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/main.htm). My research interests include computer vision, computer graphics, neural rendering, and image inpainting.
+I'm a four-year Ph.D candidate from [School of CS](https://cs.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/main.htm). My research interests include computer vision, computer graphics, neural rendering, and image inpainting.
 
 I am very fortunate to be advised by [Prof. Zhou](https://admis.fudan.edu.cn/sgzhou/main.htm) of ADMIS Lab from [School of Computer Science](https://cs.fudan.edu.cn/), Fudan University. 
 
