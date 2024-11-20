@@ -18,21 +18,31 @@ You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
 Research interests
 ======
 *Generation of multi-view faces based on geometric and learning information using a network with regional self-attention mechanism;
+
 *Reconstruction of 3D faces and 3D scenes using neural radiation fields and differentiable rendering methods based on physical information and graphical methods fused with artificial intelligence techniques;
+
 *Study of image complementation and interference scene recovery based on diffusion model, neural radiation field, 3D Gaussian sputtering.
 
 
 Selected Publications
 ------
 1.Xianliang Huang, Jiawen Li, Yanjin Chen, Feng Han, Qinghuo Liu. Hybrid Electromagnetic Inversion of Irregular Scatterers Embedded in layered Media by VBIM and MET. in IEEE Transactions on Antennas and Propagation, vol. 68, no. 12, pp. 8238-8243, Dec. 2020.doi: 10.1109/TAP.2020.2985156.（JCR，一区）
+
 2.Xianliang Huang, Jiawen Li, Jianliang Zhuo, Feng Han, Qinghuo Liu. Fast and Reliable Reconstruction of 3-D Anisotropic Objects Buried in Layered Media by Cascaded Inverse Solvers. in IEEE Geoscience and Remote Sensing Letters, doi: 10.1109/LGRS.2021.3076433.（JCR，二区）
+
 3.Xianliang Huang, Jiajie Gou, Shuhang Chen, Zhizhou Zhong, Jihong Guan, Shuigeng Zhou. IDDR-NGP: Incorporating Detectors for Distractor Removal with Instant Neural Radiance Field. ACM Multimedia.(CCF-A类会议, Oral)
+
 4.Xianliang Huang, Yining Lang, Ying Guo, Yuan He, Hui Xue, Li Zhao, Shuigeng Zhou. DR-Net: A Multi-View Face Synthesis Network Driven by Dual Representation.IEEE International Conference on Multimedia and Expo.(CCF-B类会议，Oral)
+
 5.Xianliang Huang, Shuhang Chen, Zhizhou Zhong, Jiajie Gou, Jihong Guan, Shuigeng Zhou. Hi-NeRF: Hybridizing 2D Inpainting with Neural Radiance Fields for 3D Object Removal. ACCV 2024.（CCF-C类会议）
+
 6.Xianliang Huang, Zhizhou Zhong, Shuhang Chen, Yi Xu, Jihong Guan, Shuigeng Zhou. NeRF-MIR: Neural Radiance Fields for Masked Image Restoration. Submit to IEEE Transactions on Neural Networks and Learning Systems (TNNLS) under review.
+
 7.Xianliang Huang, Chen Xiao, Shuhang Chen, Jiajie Gou, Jihong Guan, Shuigeng Zhou. A Cascade 3D Inpainting Scheme Combined Multi-view Diffusion Prior with Gaussian Splatting. Submit to IEEE Transactions on Multimedia (TMM) under review.
+
 8.Xianliang Huang*, Jiajie Gou*, Shuhang Chen, Jihong Guan, Shuigeng Zhou. DR-GS: Towards Real-Time Distractor Removal with Gaussian Splatting. Submit to AAAI 2025 under review.
-Shuhang Chen*, Xianliang Huang*, Jihong Guan, Shuigeng Zhou. Accurate Anthropometric Measurement Extraction with Focused Human Body Model. Submit to CVPR 2025 under review.
+
+9.Shuhang Chen*, Xianliang Huang*, Jihong Guan, Shuigeng Zhou. Accurate Anthropometric Measurement Extraction with Focused Human Body Model. Submit to CVPR 2025 under review.
 
 Selected Awards
 ------
@@ -60,4 +70,5 @@ Misc
 
 For more info
 ------
+You can find my CV here:[hxl_cv](../assets/hxl_cv)
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
