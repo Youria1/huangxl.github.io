@@ -21,7 +21,7 @@ repository               : "https://youria1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "hxl_image.png"
+  avatar           : "images/hxl_image.png"
   name             : "Xianliang Huang"
   pronouns         : "him"  
   bio              : "a fire man"
