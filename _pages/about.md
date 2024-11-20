@@ -22,14 +22,14 @@ Research interests
 
 
 Selected Publications
-------
+------( * denotes equal contribution, see full publications in my [Google Scholar](https://scholar.google.com/citations?user=o39MFWsAAAAJ&hl=zh-CN) or [Publications](https://youria1.github.io/huangxl.github.io//publications/))
 1.Xianliang Huang, Jiajie Gou, Shuhang Chen, Zhizhou Zhong, Jihong Guan, Shuigeng Zhou. IDDR-NGP: Incorporating Detectors for Distractor Removal with Instant Neural Radiance Field. ACM Multimedia.(CCF-A, Oral)
 
-2.Xianliang Huang, Jiawen Li, Yanjin Chen, Feng Han, Qinghuo Liu. Hybrid Electromagnetic Inversion of Irregular Scatterers Embedded in layered Media by VBIM and MET. in IEEE Transactions on Antennas and Propagation, vol. 68, no. 12, pp. 8238-8243, Dec. 2020.doi: 10.1109/TAP.2020.2985156.(JCR-Q1)
+2.Xianliang Huang, Jiawen Li, Yanjin Chen, Feng Han, Qinghuo Liu. Hybrid Electromagnetic Inversion of Irregular Scatterers Embedded in layered Media by VBIM and MET. in IEEE Transactions on Antennas and Propagation, vol. 68, no. 12, pp. 8238-8243.(JCR-Q1)
 
 3.Xianliang Huang, Yining Lang, Ying Guo, Yuan He, Hui Xue, Li Zhao, Shuigeng Zhou. DR-Net: A Multi-View Face Synthesis Network Driven by Dual Representation.IEEE International Conference on Multimedia and Expo.(CCF-B，Oral)
 
-4.Xianliang Huang, Jiawen Li, Jianliang Zhuo, Feng Han, Qinghuo Liu. Fast and Reliable Reconstruction of 3-D Anisotropic Objects Buried in Layered Media by Cascaded Inverse Solvers. in IEEE Geoscience and Remote Sensing Letters, doi: 10.1109/LGRS.2021.3076433.(JCR-Q2)
+4.Xianliang Huang, Jiawen Li, Jianliang Zhuo, Feng Han, Qinghuo Liu. Fast and Reliable Reconstruction of 3-D Anisotropic Objects Buried in Layered Media by Cascaded Inverse Solvers. in IEEE Geoscience and Remote Sensing Letters.(JCR-Q2)
 
 5.Xianliang Huang, Shuhang Chen, Zhizhou Zhong, Jiajie Gou, Jihong Guan, Shuigeng Zhou. Hi-NeRF: Hybridizing 2D Inpainting with Neural Radiance Fields for 3D Object Removal. ACCV 2024.(CCF-C)
 
