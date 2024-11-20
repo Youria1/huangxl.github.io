@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yixin Ren"
+  name             : "Xianliang Huang"
   avatar           : "hxl_image.png"
   bio              : 
   location         : "Shanghai, China"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=6xjfkpkAAAAJ&hl=zh-CN"
-  email            : "yxren21@m.fudan.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=o39MFWsAAAAJ&hl=zh-CN"
+  email            : "huangxl21@m.fudan.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "renyixin666"
+  github           : "youria1"
   google_plus      :
   keybase          :
   instagram        :
