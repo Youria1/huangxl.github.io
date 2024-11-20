@@ -10,7 +10,7 @@ I'm a third-year Ph.D candidate from [School of CS](https://cs.fudan.edu.cn/), [
 
 I am very fortunate to be advised by [Prof. Zhou](https://admis.fudan.edu.cn/sgzhou/main.htm) of ADMIS Lab from [School of Computer Science](https://cs.fudan.edu.cn/), Fudan University. 
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Huangxl's Curriculum Vitae](../assets/cv_hxl.pdf).
 
 [Email](mailto:huangxl21@m.fudan.edu.cn) / [Github](https://github.com/Youria1) / 
 
@@ -72,4 +72,4 @@ For more info
 ------
 You can find my CV here:[hxl_cv](../assets/cv_hxl)
 
-More info about Google Scholar research can be found on [the page](https://scholar.google.com/citations?user=o39MFWsAAAAJ&hl=zh-CN). If you are interested about my research, please feel free to contact me via [email](huangxl21@m.fudan.edu.cn).
+More info about Google Scholar research can be found on [the page](https://scholar.google.com/citations?user=o39MFWsAAAAJ&hl=zh-CN). If you are interested in my research, please contact me via [email](huangxl21@m.fudan.edu.cn).
