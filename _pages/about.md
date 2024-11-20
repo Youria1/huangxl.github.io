@@ -6,10 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a four-year Ph.D candidate from [School of CS](https://cs.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/main.htm). My research interests include computer vision, computer graphics, neural rendering, and image inpainting.
+I'm a four-year Ph.D candidate at [School of CS](https://cs.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/main.htm). I am very fortunate to be advised by [Prof. Zhou](https://admis.fudan.edu.cn/sgzhou/main.htm) of ADMIS Lab from [School of Computer Science](https://cs.fudan.edu.cn/), Fudan University. Before that, I received my M.S. degree in Radio Physics at Xiamen University and my B.S. degree in Mathematics and Applied Mathematics at Nanchang University.
 
-I am very fortunate to be advised by [Prof. Zhou](https://admis.fudan.edu.cn/sgzhou/main.htm) of ADMIS Lab from [School of Computer Science](https://cs.fudan.edu.cn/), Fudan University. 
-
+My research interests include computer vision, computer graphics, neural rendering, and image inpainting.
 You can find my CV here: [Huangxl's Curriculum Vitae](../assets/cv_hxl.pdf).
 
 [Email](mailto:huangxl21@m.fudan.edu.cn) / [Github](https://github.com/Youria1) / 
